@@ -14,15 +14,4 @@ This project implements a **Parallel Merge Sort** algorithm using C++11 `std::th
 
 ---
 
-## 🗂️ Folder Structure
 
-Mergesort_Threading/
-├── src/
-│ ├── app/
-│ │ └── main.cpp
-│ └── sorting/
-│ ├── mergeSort.cpp
-│ ├── mergeSort.hpp
-│ ├── parallelMergeSort.cpp
-│ └── parallelMergeSort.hpp
-├── README.md

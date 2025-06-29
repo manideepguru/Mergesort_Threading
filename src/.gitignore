@@ -1,0 +1,27 @@
+# === Compiled object files ===
+*.o
+*.obj
+
+# === Executable binaries ===
+*.exe
+*.out
+
+# === Logs and crash dumps ===
+*.log
+
+# === System files ===
+.DS_Store
+Thumbs.db
+
+# === Editor/IDE files ===
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# === CMake and build folders ===
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
